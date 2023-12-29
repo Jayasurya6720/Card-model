@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(233, 219, 233);
+/* .fa {
+    color: pink;
+} */
+.box-inner {
+    background-color: white;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 25px 10px;
+}
+a{
+    border-bottom: 1px solid rgb(18, 124, 230);
+}
+.sptext {
+    padding: 10px 2px;
+}
+.box {
+    padding: 70px 50px ;
+}
